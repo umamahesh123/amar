@@ -2,6 +2,10 @@ abcdefghijk lmnopqrs tuvwxyz
 alkdajksg hre  vw cv vrhwiop
 oirrqh ncniuhi
 asdfdfghjkklzvbnmlhsafgfftyf
+<<<<<<< HEAD
 
 mnabdbfbrui uih uuiwe uiuebb
 132156488485
+=======
+qwertyuiop mnbvcxz lkjhgfdsa
+>>>>>>> feature
